@@ -1,2 +1,2 @@
-# Project-3
- Full Responsive Website
+# Template-3
+Fully Responsive Website
